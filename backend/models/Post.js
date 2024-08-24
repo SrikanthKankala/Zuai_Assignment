@@ -5,4 +5,4 @@ const postSchema = new mongoose.Schema({
     content: { type: String, required: true }
 });
 
-module.exports = mongoose.model('Posts', postSchema);
+module.exports = mongoose.model('Post', postSchema);

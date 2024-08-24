@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'https://zuai-assignment-fgva.onrender.com/api',
+    baseURL: 'https://thousif-posts-backend.onrender.com/api',
     
 });
 

@@ -49,14 +49,14 @@
 }
 
 .post-edit-btn {
-    background-color: #f0ad4e;
+    background-color: orange;
     color: white;
     margin-left: 10px;
     border-radius: 2px;
 }
 
 .post-delete-btn {
-    background-color: #d9534f;
+    background-color: red;
     color: white;
     border-radius: 2px;
 }

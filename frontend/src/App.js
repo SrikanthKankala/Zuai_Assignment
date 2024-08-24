@@ -11,7 +11,7 @@ function App() {
     <Router>
       <div className="App">
         <header className="app-header">
-          <h1>Blog Application</h1>
+          <h1>ZuAI Application</h1>
         </header>
         <main className="app-main">
           <Switch>
@@ -22,7 +22,12 @@ function App() {
           </Switch>
         </main>
         <footer className="app-footer">
-          <p>Blog Application © 2024</p>
+          
+            <p>Srikanth@Web Developer</p>
+            <p>kankalasrikanth1@gmail.com</p>
+            <p>9010098394</p>
+          
+          <p>ZuAI Application © 2024</p>
         </footer>
       </div>
     </Router>
