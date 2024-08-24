@@ -1,3 +1,7 @@
+Deploy Website :
+https://zuai-assignment1.vercel.app/ 
+
+
 1. Navigating the Home Page
 
 When you first land on the homepage, you'll see a list of all the blog posts that have been created so far. Each post is listed with its title and a brief snippet of the content.
